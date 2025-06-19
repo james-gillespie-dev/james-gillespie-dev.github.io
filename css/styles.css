@@ -5,7 +5,7 @@ body {
     margin-right: auto;
     background-color: #ebe4cf;
     background-image: url("/backgrounds/stars\ 2.gif");
-    color: #ddd;
+    color: #ebe4cf;
 }
 
 #map {
@@ -33,7 +33,7 @@ body {
    text-decoration: none;
    font-size: 24px;
    margin-right: 16px;
-   color: #ffffff;
+   color: #ebe4cf;
    transition: all 100ms;
  }
  .navbar__right a:hover{
@@ -56,7 +56,7 @@ footer{
 }
 
  /*Blog Styling*/
-.bloglist, .blog, .photo{
+.bloglist, .blog, .photo, .photo_list{
   background: #6c5f7c;
   border: solid;
   border-radius: 1vw;
@@ -96,7 +96,7 @@ footer{
     object-fit: cover;
     border: solid;
     border-width: 0.4vw;
-    border-color: #ebe4cf;;
+    border-color: #ebe4cf;
     background: #ebe4cf;
     margin: 4px;
 }
@@ -116,4 +116,14 @@ footer{
 .photos_meta {
   margin-top: -20px;
   font-size: 12px;
+}
+
+#photo_list_items {
+  display: grid;
+  grid-template-columns: 21vw 50vw;
+  grid-template-rows: 1fr 1fr;
+}
+
+#photo_list_image img {
+  width: 20vw;
 }
