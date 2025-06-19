@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My new site</title>
+      <link>http://localhost:1313/posts/my-new-site/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-new-site/</guid>
+      <description>&lt;p&gt;Welcome to my new site, this is my first post that I am making while I create this space. I have just figured out basic functionality for blog posts and photography posts.&lt;/p&gt;&#xA;&lt;p&gt;I decided to use &lt;a href=&#34;https://neocities.org/&#34;&gt;neocities&lt;/a&gt; to start my personal website journey because I love their ethos and idea of what the internet should be about. Self expression, simplicity and good vibes.&lt;/p&gt;&#xA;&lt;p&gt;I then turned to the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator to manage content creation and smooth over writing the most tedious and repetitive HTML tasks. After figuring out how to translate my mediocre CSS knowledge into Hugo&amp;rsquo;s theme system and learning about how great partials are I feel like I made some quick progress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Athena</title>
+      <link>http://localhost:1313/photography/athena/</link>
+      <pubDate>Wed, 12 Mar 2025 05:06:00 +0800</pubDate>
+      <guid>http://localhost:1313/photography/athena/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Osprey with their catch</title>
+      <link>http://localhost:1313/photography/birds/osprey-1/</link>
+      <pubDate>Wed, 12 Mar 2025 05:06:00 +0800</pubDate>
+      <guid>http://localhost:1313/photography/birds/osprey-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;My name is James, I am learning Hugo to make my website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Art</title>
+      <link>http://localhost:1313/art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/art/</guid>
+      <description>&lt;p&gt;Art page&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
