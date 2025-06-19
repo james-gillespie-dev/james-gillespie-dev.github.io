@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://james-gillespie-dev.github.io/posts/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://james-gillespie-dev.github.io/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-new-site/</loc>
+    <loc>https://james-gillespie-dev.github.io/posts/my-new-site/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photography/athena/</loc>
+    <loc>https://james-gillespie-dev.github.io/photography/athena/</loc>
     <lastmod>2025-03-12T05:06:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/birds/</loc>
+    <loc>https://james-gillespie-dev.github.io/tags/birds/</loc>
     <lastmod>2025-03-12T05:06:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photography/</loc>
+    <loc>https://james-gillespie-dev.github.io/photography/</loc>
     <lastmod>2025-03-12T05:06:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nature/</loc>
+    <loc>https://james-gillespie-dev.github.io/tags/nature/</loc>
     <lastmod>2025-03-12T05:06:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photography/birds/osprey-1/</loc>
+    <loc>https://james-gillespie-dev.github.io/photography/birds/osprey-1/</loc>
     <lastmod>2025-03-12T05:06:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://james-gillespie-dev.github.io/tags/</loc>
     <lastmod>2025-03-12T05:06:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://james-gillespie-dev.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/art/</loc>
+    <loc>https://james-gillespie-dev.github.io/art/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://james-gillespie-dev.github.io/categories/</loc>
   </url>
 </urlset>

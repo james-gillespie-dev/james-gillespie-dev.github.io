@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on </title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://james-gillespie-dev.github.io/posts/</link>
     <description>Recent content in Blog on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://james-gillespie-dev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My new site</title>
-      <link>http://localhost:1313/posts/my-new-site/</link>
+      <link>https://james-gillespie-dev.github.io/posts/my-new-site/</link>
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-new-site/</guid>
+      <guid>https://james-gillespie-dev.github.io/posts/my-new-site/</guid>
       <description>&lt;p&gt;Welcome to my new site, this is my first post that I am making while I create this space. I have just figured out basic functionality for blog posts and photography posts.&lt;/p&gt;&#xA;&lt;p&gt;I decided to use &lt;a href=&#34;https://neocities.org/&#34;&gt;neocities&lt;/a&gt; to start my personal website journey because I love their ethos and idea of what the internet should be about. Self expression, simplicity and good vibes.&lt;/p&gt;&#xA;&lt;p&gt;I then turned to the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator to manage content creation and smooth over writing the most tedious and repetitive HTML tasks. After figuring out how to translate my mediocre CSS knowledge into Hugo&amp;rsquo;s theme system and learning about how great partials are I feel like I made some quick progress.&lt;/p&gt;</description>
     </item>
   </channel>
