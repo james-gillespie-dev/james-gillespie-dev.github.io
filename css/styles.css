@@ -158,10 +158,12 @@ footer{
 
 /*Main Page Styling*/
 .main_wrapper {
+  position: relative;
   display: flex;
-  border: dotted;
+  align-items: top;
   justify-content: space-between;
-  width: 100%;
+  padding: 1em;
+  border: dotted;
 }
 
 .sidebar_left, .sidebar_right, .main_content {
