@@ -42,6 +42,7 @@ a {
 
 main {
   margin: 2vh 8vw;
+  font-size: 24px;
 }
 
 main img {
@@ -53,6 +54,13 @@ main img {
     border-color: #ebe4cf;
     background: #ebe4cf;
     margin: auto;
+}
+
+main h6 {
+  color: #dd9919;
+  text-align: center;
+  font-size: 16px;
+  margin-top: -16px;
 }
 
 /*Header Styling*/
@@ -99,7 +107,7 @@ footer{
   height: fit-content;
 }
 
-.bloglist h1, .bloglist ul, .bloglist a, .blog h1, .blog p, .blog a{
+.bloglist h1, .bloglist ul, .bloglist a, .blog h1 {
   color: #0f0125;
 }
 
@@ -113,7 +121,6 @@ footer{
 
 .blog a{
   color: #dd9919;
-
 }
 
 /*Photo Styling*/
@@ -140,17 +147,17 @@ footer{
   object-fit: contain;
 }
 
-.photos_desc {
+.photos_desc, .blog_text {
   color: #ebe4cf;
 }
 
-.photos_title, .photos_meta {
+.photos_title, .photos_meta, .blog_meta {
   color: #0f0125;
 }
 
-.photos_meta {
+.photos_meta, .blog_meta {
   margin-top: -20px;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 #photo_list_items {

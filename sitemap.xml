@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://james-gillespie-dev.github.io/posts/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://james-gillespie-dev.github.io/</loc>
-    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://james-gillespie-dev.github.io/posts/legend-1995-thoughts/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://james-gillespie-dev.github.io/photography/</loc>
     <lastmod>2025-08-06T00:00:00+00:00</lastmod>
@@ -13,9 +19,6 @@
   </url><url>
     <loc>https://james-gillespie-dev.github.io/photography/jorgensen/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://james-gillespie-dev.github.io/posts/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://james-gillespie-dev.github.io/posts/my-new-site/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
